@@ -10,7 +10,7 @@
 
 # 日々の履歴
 ## 2019/10/28
-anki、GLOBAL900
+anki、GLOBAL900、TOEIC究極のゼミpart7、民法総論テキスト
 ## 2019/10/27
 anki、GLOBAL900、TOEIC究極のゼミpart7、哲学レポート、民法総論テキスト
 ## 2019/10/26
