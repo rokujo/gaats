@@ -9,6 +9,12 @@
 |2019/10/24|TOEICpart6特急1周|
 
 # 日々の履歴
+## 2019/10/31
+anki、GLOBAL900、TOEIC究極のゼミpart7、哲学レポート、民法総論テキスト
+## 2019/10/30
+anki、GLOBAL900、TOEIC究極のゼミpart7、民法総論テキスト
+## 2019/10/29
+anki、GLOBAL900、TOEIC究極のゼミpart7、民法総論テキスト
 ## 2019/10/28
 anki、GLOBAL900、TOEIC究極のゼミpart7、民法総論テキスト
 ## 2019/10/27
