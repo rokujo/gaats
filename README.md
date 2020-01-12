@@ -21,10 +21,55 @@
 |2019/12/04|TOEIC究極のゼミpart3&4完了|
 |2019/12/08|慶應通信 哲学テキスト2周|
 |2019/12/17|民法関連 リーガルベイシス民法入門2周目半分読了|
-
+|2019/12/28|TOEIC文法でる1000 2周|
+|2020/01/07|慶應通信 民法総論テキスト1.7周、テスト対策プリント作成|
 
 # 日々の履歴
-## 2019/12/19
+## 2020/01/11
+anki、債権総論
+## 2020/01/10
+anki、flowリスニング、terrible two
+## 2020/01/09
+anki、flowリスニング、債権総論
+## 2020/01/08
+anki、flowリスニング
+## 2020/01/07
+anki、民法総論おわり
+## 2020/01/06
+anki、part34、民法総論
+## 2020/01/05
+anki、かるいお姫様、teribble two
+## 2020/01/04
+anki、かるいお姫様
+## 2020/01/03
+anki、民法総論、suits
+## 2020/01/02
+anki、微積
+## 2020/01/01
+anki、民法総論、suits
+## 2019/12/31
+anki
+## 2019/12/30
+anki
+## 2019/12/29
+anki
+## 2019/12/28
+anki、toeic part5 2周目おわり、民法総論
+## 2019/12/27
+anki、toeic part5 2周目、Book for kids、民法総論
+## 2019/12/26
+anki、part3,4シャドウイング、toeic part5 2周目、Book for kids、民法総論
+## 2019/12/25
+anki、part3,4シャドウイング、toeic part5 2周目、Book for kids、民法総論
+## 2019/12/24
+anki、part3,4シャドウイング、toeic part5 2周目、Book for kids、民法総論
+## 2019/12/23
+anki、part3,4シャドウイング、toeic part5 2周目、Book for kids、民法総論
+## 2019/12/22
+anki、part3,4シャドウイング、toeic part5 2周目、Book for kids、民法総論
+## 2019/12/21
+anki、toeic part5 2周目、民法総論
+## 2019/12/20
 anki、part3,4シャドウイング、toeic part5 2周目、Book for kids、民法総論
 ## 2019/12/19
 anki、part3,4シャドウイング、toeic part5 2周目、Book for kids、民法総論
